@@ -3,9 +3,6 @@
 
 # Question 1:
 
-# In[44]:
-
-
 numbers = list(range(30, 61, 5))
 print(type(numbers))
 print(numbers)
@@ -17,9 +14,6 @@ print(numbers[::-1])
 
 
 # Question 2:
-
-# In[52]:
-
 
 list1 = []
 for number in range(0, 21):
@@ -37,9 +31,6 @@ print("sum:", sum(list1))
 
 
 # Question 3:
-
-# In[53]:
-
 
 weather = {'sunny': 'play', 'rainy': 'watch TV', 'cloudy': 'walk'}
 print(type(weather))
